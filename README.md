@@ -1,3 +1,3 @@
 # Лекции по программированию
 Сборник структурированных лекций по следующим предметам:
-- [Алгоритмы и структуры данных](https://github.com/Strangenaut/it-lections/blob/main/all-lections/algorithms.md)
+- [Алгоритмы и структуры данных](https://github.com/Strangenaut/it-summaries/blob/main/lectures/Алгоритмы%20и%20структуры%20данных.md)
